@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "planets"
+    }
+  },
+  "defaultProject": "planets",
+  "cli": {
+    "analytics": false
+  }
 }
